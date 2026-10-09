@@ -1,4 +1,4 @@
-##Hi, I'm Terrionna 👋🏿##
+#Hi, I'm Terrionna 👋🏿#
 Software engineer with a degree in Computer Science, an obsession with clean system architecture, and a severe weakness for massive RPGs and dark fantasy literature.
 
 When I am not at my desk, I am usually locked into a PS5 campaign, lost in a thousand-page fantasy novel, or rewatching Sam and Dean hunt monsters.
