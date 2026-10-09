@@ -3,7 +3,7 @@ Software engineer with a degree in Computer Science, an obsession with clean sys
 
 Off the clock, you will usually find me playing RPGs, power-reading fantasy books, or rewatching Sam and Dean hunt monsters.
 
-Technical Stack and Focus
+# Technical Stack and Focus
 Languages: C++, Python, JavaScript (Node.js, Express), HTML/CSS
 Databases and Tools: MongoDB, REST APIs, Git, Google Test, Raspberry Pi
 Focus Areas: Full-Stack Web Development, System Architecture, Machine Learning Experiments
