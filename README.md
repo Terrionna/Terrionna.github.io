@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Terrionna 👋🏿 #<br>Software engineer with a degree in Computer Science, an obsession with clean system architecture, and a severe weakness for massive RPGs and dark fantasy literature.<br><br>Off the clock, you will usually find me playing RPGs, power-reading fantasy books (shout out to the Wheel of Time), or rewatching Sam and Dean hunt monsters.<br>
+# Hi, I'm Terrionna 👋🏿 br>Software engineer with a degree in Computer Science, an obsession with clean system architecture, and a severe weakness for massive RPGs and dark fantasy literature.<br><br>Off the clock, you will usually find me playing RPGs, power-reading fantasy books (shout out to the Wheel of Time), or rewatching Sam and Dean hunt monsters.<br>
 <br>[Testify](https://github.com/Terrionna/testify-backend) - Full-stack automated testing platform. Connects a front-end interface to a Node.js REST API and MongoDB database so you can execute test suites and view results without digging through logs.
 
 
