@@ -9,6 +9,12 @@ Off the clock, you will usually find me playing RPGs, power-reading fantasy book
 # 🚀 Featured Projects:
 
 <p align="center">
+  <a href="https://github.com/Terrionna/testify-backend">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-backend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Terrionna/CS255">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=CS255&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
   </a>
