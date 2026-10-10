@@ -1,4 +1,4 @@
-# 🎮 THE BUNKER LOG: TERRIONNA MCGHEE 🎮
+# 🐙 THE BUNKER LOG: TERRIONNA MCGHEE 🐙
 Computer science degree earned in the trenches. Built an obsession for clean system architecture, tight perimeters, and making sure nothing slips past the wards. 
 
 When I am not tracking down bugs or writing code, you will usually find me deep in an RPG, power reading fantasy doorstoppers like the Wheel of Time, or watching two idiots drive a black Impala across state lines.
@@ -9,6 +9,9 @@ When I am not tracking down bugs or writing code, you will usually find me deep 
 # 🚀 SECURED CASES & REPOSITORIES
 
 <p align="center">
+  <a href="https://github.com/Terrionna/testify-frontend">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-frontend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
+  </a>
   <a href="https://github.com/Terrionna/testify-backend">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-backend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
@@ -46,13 +49,13 @@ When I am not tracking down bugs or writing code, you will usually find me deep 
   </iframe>
 </div>
 
-Got a full debrief queued up on how we locked down the Testify platform and cleared out the digital gunk before pushing any code to production.
+Got the whole debrief recorded on tape. We ripped open the Testify platform, cleaned out the gunk, and tightened the wards before letting this system anywhere near production.
 
-Software Engineering and System Architecture: Stripping out sloppy legacy code and building tight backend services with strict schema validation, error trapping, and clean controller handoffs for managing tests, questions, and user attempts.
+Software Engineering and System Architecture: Ripped apart that old MongoDB CRUD mess and built a lean backend service. Locked down the endpoints with strict input validation and proper error trapping so bad data gets kicked straight to the curb before it touches the core.
 
-Algorithms and Data Structures: Rigging up custom version control logic without dragging in bloated external dependencies. Fast traversal, clean parsing, and keeping things running lean under pressure.
+Algorithms and Data Structures: Rebuilt a custom linked list setup to handle test versioning without relying on bloated third party libraries. Kept the execution fast and the parsing tight so the system runs clean under pressure.
 
-Database Architecture and Data Persistence: Securing the MongoDB vaults so draft states and published records stay locked down, organized, and completely untouched by unwanted interference.
+Database Architecture and Data Persistence: Reinforced the MongoDB vault layer to enforce clean schemas, lock up sensitive certificates, and stop draft records from getting mixed up with live production data.
 
 <br>
 <br>
