@@ -10,25 +10,25 @@ Off the clock, you will usually find me playing RPGs, power-reading fantasy book
 
 <p align="center">
   <a href="https://github.com/Terrionna/testify-backend">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-backend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-backend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Terrionna/CS255">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=CS255&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=CS255&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
   <a href="https://github.com/Terrionna/CS-405-Secure-Coding">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=CS-405-Secure-Coding&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=CS-405-Secure-Coding&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Terrionna/AdvisingAssistant">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=AdvisingAssistant&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=AdvisingAssistant&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
   <a href="https://github.com/Terrionna/GlobalRain">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=GlobalRain&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=GlobalRain&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333&cache=1" />
   </a>
 </p>
 <br>
