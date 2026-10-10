@@ -6,7 +6,25 @@ Off the clock, you will usually find me playing RPGs, power-reading fantasy book
 <br>
 <br>
 
-[Testify](https://github.com/Terrionna/testify-backend) - Full-stack automated testing platform. Connects a front-end interface to a Node.js REST API and MongoDB database so you can execute test suites and view results without digging through logs.
+# 🚀 Featured Projects:
+
+<p align="center">
+  <a href="https://github.com/Terrionna/testify-backend">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=testify-backend&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+  </a>
+  <a href="https://github.com/Terrionna/travlr-getaways">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=travlr-getaways&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Terrionna/austin-animal-center-crud">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=austin-animal-center-crud&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+  </a>
+  <a href="https://github.com/Terrionna/3d-graphics-scene">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Terrionna&repo=3d-graphics-scene&border_color=ff69b4&title_color=ff69b4&icon_color=ff69b4&text_color=333333" />
+  </a>
+</p>
 
 <br>
 <br>
