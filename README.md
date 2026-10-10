@@ -12,7 +12,7 @@ Algorithms and Data Structures: Evaluating a custom linked list implementation r
 Database Architecture and Data Persistence: Reviewing the MongoDB database layer to enforce schema integrity, secure certificate storage, and conflict management for published vs. draft test states.
 
 ## 🌐 Socials:
-([https://linkedin.com/in/Terrionna McGhee)](https://www.linkedin.com/in/terrionna-mcghee-b6761851)
+<p><a href="https://www.linkedin.com/in/terrionna-mcghee-b6761851" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a></p>
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:terrionna.mcghee@snhu.edu) 
 
