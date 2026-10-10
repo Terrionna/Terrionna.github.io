@@ -6,7 +6,7 @@ Off the clock, you will usually find me playing RPGs, power-reading fantasy book
 <br>
 <br>
 
-# 🚀 Featured Projects:
+# 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Terrionna/testify-backend">
