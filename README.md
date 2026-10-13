@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" type="image/png" href="octopus.png">
+</head>
+
 # 🐙 THE BUNKER LOG: TERRIONNA MCGHEE 🐙
 Computer science degree earned in the trenches. Built an obsession for clean system architecture, tight perimeters, and making sure nothing slips past the wards. 
 
