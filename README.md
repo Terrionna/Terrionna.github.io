@@ -9,7 +9,17 @@ When I am not tracking down bugs or writing code, you will usually find me deep 
 
 <br>
 <br>
+# 📂 CASE FILES & NARRATIVES
 
+Full debriefs on every case, plus the story of how I got here.
+
+[📓 Professional Self Assessment](/self-assessment.html)
+
+[🧰 Software Design and Engineering](/software-design-and-engineering.html)
+
+[🧮 Algorithms and Data Structures](/algorithms-and-data-structures.html)
+
+[🗄️ Databases](/databases.html)
 # 🚀 SECURED CASES & REPOSITORIES
 
 <p align="center">
