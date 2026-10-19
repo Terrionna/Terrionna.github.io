@@ -9,7 +9,7 @@ When I am not tracking down bugs or writing code, you will usually find me deep 
 
 <br>
 <br>
-# 📂 CASE FILES & NARRATIVES
+## 📂 CASE FILES & NARRATIVES
 
 Full debriefs on every case, plus the story of how I got here.
 
